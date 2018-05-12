@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31504
 description: Darius John Granger is a pseudonym of Milton Lesser, a.k.a. Stephen Marlowe
   (1928-2008), or of John William Jakes (b. 1932).
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25684#A-World-Called-Crimson
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-06-03'
 gutenberg_type: Text
